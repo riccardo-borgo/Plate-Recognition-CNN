@@ -19,3 +19,5 @@ Date    Plate Number Detected
 
 2023-01-2	693H744
 
+2023-10-0	693H744
+
