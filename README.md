@@ -4,6 +4,11 @@ In this very simple plate recognition tool I am trying to, given some pretermine
 
 Nevertheless, I am going to show every step I did in order to build this small project, at the end there will be listed some possible future implementations.
 
+First of all I imported all the library that will be useful during the script:
+```python
+
+```
+
 
 
 
