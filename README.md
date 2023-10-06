@@ -6,8 +6,20 @@ Nevertheless, I am going to show every step I did in order to build this small p
 
 First of all I imported all the library that will be useful during the script:
 ```python
+from datetime import datetime
+from tkinter import *
+from tkinter import filedialog
+import imutils
+from PIL import ImageTk, Image
 
+import pytesseract
+import cv2
 ```
+
+The libraries involved in the actual recognition are the PIL library, pytesseract and cv2, while tkinter is only used to build a GUI to make the usage of the tool easier and accesible to everyone.
+
+After that I have created a simple graphic interface that allows you to upload your image (in this specific case I worked only with pictures decided by me, since the tool is not very powerful) and with the other button **Start the Tool** you can easily start it off.
+
 
 
 
